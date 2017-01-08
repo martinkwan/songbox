@@ -7,10 +7,10 @@ import NavBar from '../NavBar/NavBar';
 const App = ({ children }) =>
   <div>
     <NavBar />
-    <h1>SoundBox</h1>
+    <h1>SongBox</h1>
     { children }
     <footer className={footer}>
-      <Link to="/">SoundBox</Link>
+      <Link to="/">SongBox</Link>
       <Link to="/about">About</Link>
     </footer>
   </div>;
