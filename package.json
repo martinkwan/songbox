@@ -1,5 +1,5 @@
 {
-  "name": "SoundBox",
+  "name": "SongBox",
   "version": "1.0.0",
   "description": "A SoundCloud API client built with React and Redux.",
   "main": "index.js",
